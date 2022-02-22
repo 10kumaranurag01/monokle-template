@@ -5,11 +5,11 @@
      "author": "Kumar Anurag",
      "repository": "https://github.com/10kumaranurag01/monokle-template-plugin",
      "monoklePlugin":{
-         "modules":[
-             {
-                 "type":"template",
-                 "path":"basic-pod-template"
-             }
-         ]
-     } 
-}     
+		"id": "com.github.KumarAnurag.plugin.templates",
+		"helpUrl": "https://github.com/10kumaranurag01/monokle-template-plugin",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
+}
