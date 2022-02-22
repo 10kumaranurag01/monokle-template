@@ -1,0 +1,23 @@
+ {
+     "name":"Basic Kubernetes Pod",
+     "id":"com.github.10kumaranurag01.plugin.tempplates.basic-pod-template",
+     "author":"Kumar Anurag",
+     "version": "1.0.0",
+     "repository":"",
+     "type":"vanilla",
+     "forms":[
+         {
+             "name": "Pod Settings",
+             "description":"Specify the settings for your Pod",
+             "schema": "form-schema.json",
+             "uiSchema": "form-ui-schema.json"
+         }
+     ],
+     "manifests":[
+         {
+             "filepath":"template.yaml"
+         }
+     ],
+     "resultMessage":"Pod resource created successfully!",
+     "helpUrl":"https://github.com/10kumaranurag01/monokle-template-plugin"
+}
