@@ -1,6 +1,6 @@
  {
      "name": "Basic Kubernetes Pod",
-     "id": "com.github.10kumaranurag01.plugin.tempplates.basic-pod-template",
+     "id": "com.github.kumar-anurag.plugin.tempplates.basic-pod-template",
      "author":"Kumar Anurag",
      "version": "1.0.0",
      "description": "Create a Pod for a specified Image",
@@ -16,7 +16,7 @@
      ],
      "manifests": [
          {
-             "filepath":"template.yaml"
+             "filepath": "template.yaml"
          }
      ],
      "resultMessage": "Pod resource created successfully!",
