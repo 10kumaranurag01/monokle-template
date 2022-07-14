@@ -4,7 +4,7 @@
      "version": "1.0.0",
      "author": "Kumar Anurag",
      "repository": "https://github.com/10kumaranurag01/monokle-template-plugin",
-     "monoklePlugin":{
+     "monoklePlugin": {
 		"id": "com.github.kumar-anurag.plugin.templates",
 		"helpUrl": "https://github.com/10kumaranurag01/monokle-template-plugin",
 		"modules": [{
